@@ -1,8 +1,11 @@
 # chat_app
 
-A new Flutter project.
+A new one to one chat app Flutter project.
 
-## Getting Started
+## Output Screen
+![chat1](https://github.com/hk1728557/ChatApp/assets/90959033/18c2af43-645d-46de-b91c-a13649bfbfec)
+![chat2](https://github.com/hk1728557/ChatApp/assets/90959033/c9028655-f735-4ce7-9d21-ed58546b9a8f)
+![chat3](https://github.com/hk1728557/ChatApp/assets/90959033/94240d9b-5046-46d0-aa73-1dbafc1ff19a)
 
 This project is a starting point for a Flutter application.
 
